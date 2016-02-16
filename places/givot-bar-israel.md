@@ -1,3 +1,6 @@
+
+A place in the Negev desert
+
 ## Givot-Bar Israel
 
 ## Places to eat
