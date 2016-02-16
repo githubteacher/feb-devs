@@ -1,1 +1,6 @@
-## places to vist
+## places to visit
+
+- Charminar 
+- birla temple
+
+
