@@ -8,3 +8,5 @@
 ### Things to do
   - Eat at MacDonalds
   - Eat at Burger King
+  - Pray for sunshine
+  - Buy umbrealla
