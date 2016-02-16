@@ -10,3 +10,5 @@
   - Eat at Burger King
   - Pray for sunshine
   - Buy umbrealla
+  
+  Coolio
