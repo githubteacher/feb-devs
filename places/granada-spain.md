@@ -12,3 +12,7 @@
 - Ecu
 - Il Gondoliere
 - Pizzametro
+
+## Things to do
+- Go to the theater
+- Visit the Hospital Real
