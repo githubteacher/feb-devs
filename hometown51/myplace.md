@@ -2,5 +2,5 @@
 
 - Charminar 
 - birla temple
-
+- RK beach (vizag)
 
