@@ -4,3 +4,4 @@
 * Neue-Ramtel-Straße
 * Breslauer Straße
 * Glemseckstraße
+* Gerlinger Straße
