@@ -11,3 +11,4 @@
 - Omaha Lancers
 - Mahoney State Park
 - Coco Keys Water Park
+- Beaver Lake
