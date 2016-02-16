@@ -4,6 +4,8 @@
 * Wagamama
 * Yo!Sushi
 * Made in Belfast
+* Speranza
+* Laverys
 
 ### Things to do
 * Titanic Exhibition
