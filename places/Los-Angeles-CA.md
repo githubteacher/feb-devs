@@ -3,4 +3,5 @@
 ### Places to eat
 - Mogos Mongolian
 - Koji
+- Thai Pepper
 
