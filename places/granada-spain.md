@@ -16,3 +16,6 @@
 ## Things to do
 - Go to the theater
 - Visit the Hospital Real
+
+## Weather 
+- Mostly sunny but cold
