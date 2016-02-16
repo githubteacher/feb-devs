@@ -8,3 +8,8 @@
  
   - Hiking on stanadge edge 
   - Visit calver village
+  
+ ##Night out 
+ 
+  - Bird cage
+  - bungalows and bears
