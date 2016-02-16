@@ -7,4 +7,5 @@
 
 ### Things to do
 - Night out at Vila Madalena
-- Atend a football match at Morumbi stadium
+- Attend a football match at Morumbi stadium
+- Go to Paulista Avenue
