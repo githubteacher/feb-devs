@@ -2,6 +2,7 @@
 
 ## Things to do
 - Go to the beach
+- Go surfing
 - Go hiking
 - Go to the pub
 
