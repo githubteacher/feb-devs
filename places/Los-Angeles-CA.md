@@ -2,3 +2,5 @@
 
 ### Places to eat
 - Mogos Mongolian
+- Koji
+
