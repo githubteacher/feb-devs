@@ -6,4 +6,6 @@
 - Breakaway
 
 ### Things to do
-* Sleep
+- Visit the New York Hotel
+- Walk along the Maas and on the Erasmus bridge
+- Go shopping
