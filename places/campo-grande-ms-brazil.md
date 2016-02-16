@@ -6,3 +6,4 @@
 ### Thing to do
   - Visit the city parks
   - Go to the cinema
+  - I'm running out of things to do...
