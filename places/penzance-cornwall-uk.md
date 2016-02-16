@@ -1,0 +1,11 @@
+## Penzance, Cornwall, Uk
+
+## Things to do
+- Go to the beach
+- Go hiking
+- Go to the pub
+
+### Beaches
+- Porthcurnow
+- Sennen
+- Pednvounder
