@@ -6,3 +6,5 @@
 
 ### Things to do
 - Go drinking at Yates
+- Get lost 
+- Not a lit
