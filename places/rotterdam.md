@@ -1,5 +1,7 @@
 ## Rotterdam, NL
 
+Getting out of sync
+
 ### Places to eat
 - Kapsalon
 - Shabu Shabu
