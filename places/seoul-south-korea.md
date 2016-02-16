@@ -6,4 +6,4 @@
 
 ### Thnkgs to do
 - Go to traditional places
-
+- Go to Ice Palace
