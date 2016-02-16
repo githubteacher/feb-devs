@@ -6,3 +6,5 @@
 
 ## Things to do
 - Pickup orange
+- Go Hiking
+- Go to the Museums
