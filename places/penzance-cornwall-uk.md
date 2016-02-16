@@ -9,3 +9,7 @@
 - Porthcurnow
 - Sennen
 - Pednvounder
+
+## Pubs
+- The Crown
+- The Lamp & Whistle
