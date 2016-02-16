@@ -4,8 +4,11 @@ London is the capital and most populous city of England and the United Kingdom. 
 
 ## Places to Eat
 - St George's Inn
+- Franco Manco
+- Meat Liquor
 
 ## Things to do
 - Queue for the Tube
+- Stand on the right of the escalator
 - Visit the Space Museum
 - Cycle in Hyde Park
