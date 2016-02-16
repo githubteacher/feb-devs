@@ -11,3 +11,6 @@
 - Play some indoor activities
 - Like chess, carrom.
 _listen music.
+- Some other things
+- like outdoor and indoor
+- Hyderabad
