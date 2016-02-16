@@ -8,3 +8,4 @@
 - Cave swimming
 - Water sports
 - Beach bonfire
+- Drink!!
