@@ -7,3 +7,7 @@
 ### Things to do
 - Cricket
 - Sports
+- Tennis
+- Play some indoor activities
+- Like chess, carrom.
+_listen music.
