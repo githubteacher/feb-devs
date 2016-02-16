@@ -6,4 +6,5 @@
 
 ## TODO
 
- - Drink vodka
+ - Visit Wilanow palace
+ - Uprising museum
