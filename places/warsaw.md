@@ -7,4 +7,7 @@
 ## TODO
 
  - Visit Wilanow palace
+	-- gardens
+	-- art gallery
+	-- museum 
  - Uprising museum
