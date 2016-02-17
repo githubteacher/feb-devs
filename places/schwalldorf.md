@@ -1,16 +1,16 @@
 ## Schwalldorf, Rottenburg, Germany
 
 ### Places to Eat
-@ None
+* None
 
 ### Things to see
-@ Schwalldorf Football Clud
-@ Onion Festial in September
+* Schwalldorf Football Team
+* Onion Festial in September
 
 
 ### Things to do
-@ Relax
-@ Enjoy fast internet
+* Relax
+* Enjoy fast internet
 
 ### Population
-@ 800
+* 805
