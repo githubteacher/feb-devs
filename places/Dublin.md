@@ -6,4 +6,4 @@
 
 ### Things to do
 - See the sights
-- Then go drinking
+- Then go drinking... again
