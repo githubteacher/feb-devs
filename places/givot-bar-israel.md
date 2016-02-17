@@ -4,7 +4,8 @@ A place in the Negev desert
 ## Givot-Bar Israel
 
 ## Places to eat
-- nowhere
+- There are many restaurants 20 mins away in Beer Sheva
 
 ## Things to Do
-- nothing
+- Darom Adom Festival
+- Einot Bar Resort
