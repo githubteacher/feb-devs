@@ -9,3 +9,6 @@ A place in the Negev desert
 ## Things to Do
 - Darom Adom Festival
 - Einot Bar Resort
+
+## Weather
+- Mostly Sunny
