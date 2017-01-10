@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<atlassian-plugin key="${project.groupId}.${project.artifactId}" name="${project.name}" plugins-version="2">
+  <plugin-info>
+    <description>${project.description}</description>
+    <version>${project.version}</version>
+    <vendor name="${project.organization.name}" url="${project.organization.url}"/>
+  </plugin-info>
+  <!-- add our i18n resource -->
+  <!-- <resource type="i18n" name="i18n" location="TestITPanel"/> -->
+  <!-- add our web resources -->
+  <!-- 
+  <web-resource key="TestITPanel-resources" name="TestITPanel Web Resources">
+    <dependency>com.atlassian.auiplugin:ajs</dependency>
+    <resource type="download" name="TestITPanel.css" location="/css/TestITPanel.css"/>
+    <resource type="download" name="TestITPanel.js" location="/js/TestITPanel.js"/>
+    <resource type="download" name="images/" location="/images"/>
+    <context>TestITPanel</context>
+  </web-resource>
+  -->
+  <!-- publish our component -->
+  <!--
+  <component key="myPluginComponent" class="com.td.iadev.MyPluginComponentImpl" public="true">
+    <interface>com.td.iadev.MyPluginComponent</interface>
+  </component>
+  -->
+  <!-- import from the product container -->
+  <!-- <component-import key="applicationProperties" interface="com.atlassian.sal.api.ApplicationProperties"/> -->
+  <issue-tabpanel key="test-issue-tab-panel" name="Test Issue Tab Panel" i18n-name-key="test-issue-tab-panel.name" class="com.td.iadev.jira.tabpanels.TestIssueTabPanel">
+    <description key="test-issue-tab-panel.description">The Test Issue Tab Panel Plugin</description>
+    <label key="test-issue-tab-panel.label"></label>
+    <order>10</order>
+    <resource type="velocity" name="view" location="templates/tabpanels/test-issue-tab-panel.vm"/>
+  </issue-tabpanel>
+</atlassian-plugin>
