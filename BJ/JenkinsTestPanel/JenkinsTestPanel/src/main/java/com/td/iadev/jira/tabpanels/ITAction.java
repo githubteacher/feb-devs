@@ -21,6 +21,7 @@ public class ITAction extends AbstractIssueAction {
 
     public void populateVelocityParams(Map params){
     	System.out.println("message" + " test control");
+    	System.out.println("message" + " jenkins");
         params.put("ITVal","Issue Tab Panel"+message);
     }
 }
