@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<atlassian-plugin key="com.teradata.jira.jenkins.jenkinsIntegration" name="jenkinsIntegration" plugins-version="2">
+  <plugin-info>
+    <description>This is the com.teradata.jira.jenkins:jenkinsIntegration plugin for Atlassian JIRA.</description>
+    <version>1.0</version>
+    <vendor name="Example Company" url="http://www.example.com/"/>
+    <param name="plugin-icon">images/pluginIcon.png</param>
+    <param name="plugin-logo">images/pluginLogo.png</param>
+  </plugin-info>
+  
+  <issue-tabpanel key="test-issue-tab-panel" name="Test Issue Tab Panel" i18n-name-key="test-issue-tab-panel.name" class="com.teradata.jira.jenkins.TestIssueTabPanel">
+    <description key="test-issue-tab-panel.description">The Test Issue Tab Panel Plugin</description>
+    <label key="test-issue-tab-panel.label"></label>
+    <order>10</order>
+    <resource type="velocity" name="view" location="templates/tabpanels/test-issue-tab-panel.vm"/>
+  </issue-tabpanel>
+</atlassian-plugin>
